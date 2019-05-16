@@ -1,2 +1,2 @@
-# simple-demo
-This is a simple demo
+# Simple Example Repository
+This is a simple repo
